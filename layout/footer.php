@@ -5,7 +5,7 @@
           <div class="row">
             <div class="col-sm-12 col-md-6 col-lg-3 col-xl-4 footer__widget footer__widget-about">
               <div class="footer__widget-content">
-                <img src="assets/images/logo/logo-footer.png" alt="logo" class="mb-30">
+                <img src="assets/images/logo/logo-footer.png" style="width:400px;" alt="logo" class="mb-30">
                 <p class="mb-20">A leading developer of A-grade commercial, industrial and residential projects in USA.
                   Since its foundation the company has doubled its turnover year on year with its staff.</p>
                 <ul class="social__icons list-unstyled">
@@ -74,8 +74,8 @@
                   <li><a href="#">Sitemap</a></li>
                 </ul>
               </nav>
-              <p class="mb-0 color-white"> &copy; 2020 Promina. With Love by
-                <a href="http://themeforest.net/user/7oroof">7oroof.com</a>
+              <p class="mb-0 color-white"> &copy; 2024 Salum Construction
+                <a href="#"></a>
               </p>
             </div>
           </div>
